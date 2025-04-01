@@ -1,0 +1,13 @@
+{
+  "name": "com.unity.toast",
+  "version": "0.0.1",
+  "displayName": "Android Toast Messages",
+  "description": "Package for showing Android Toast messages.",
+  "licensesUrl": "https://github.com/Antonio-Iliev/com.unity.toast/blob/main/LICENSE",
+  "unity": "2021.1",
+  "dependencies": {},
+  "keywords": ["unity", "package", "upm"],
+  "author": {
+    "name": "Antonio Iliev"
+  }
+}
